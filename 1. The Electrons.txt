@@ -35,5 +35,68 @@ In the server code you can use the following methods:
 renderToString(element)
 renderToStaticMarkup(element)
 
+facebook.github.io/react
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* State Management
+------------------
+- State: When data changes or when you click on a link, the application will change to reflect these events.
+	 It could be seeing as the web page you are on before there are any changes, or before you click on any links.
+
+ 	 UI, data, events.
+
+- State Management: Managing different points in time, or states, for your application.
+
+- State: Object used in React, that we can observe and analyze.
+	 As events occur, you'll see the state changing both visually on the web page or application, and internally in the state object.
+
+- Redux: Provides with great syntax and structure to manage our state.
+
+IN REDUX:
+
+ACTIONS ---> call ---> REDUCERS
+
+- Reducers: Pure functions that create a new state based on the previous state with the new action added to it.
+
+Example in Plain English:
+-------------------------
+For example, if we click the action, get me the latest news, the reducer will copy the old list of news, add the new ones, and create a new state object, with the updated news.
+
+redux.js.org
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
