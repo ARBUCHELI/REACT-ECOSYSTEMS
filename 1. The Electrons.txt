@@ -14,3 +14,26 @@ http//reacttraining.com/react-router
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Server-side rendering
+-----------------------
+SSR = Server Side Rendering
+
+SERVER <===> BROWSER
+
+Rendering can be done on any of the both sides.
+
+* Benefits of SSR
+-----------------
+- Faster
+- More Secure
+- SEO friendly
+
+The simplest way to implement server side rendering is to use ReactDomServer API.
+
+In the server code you can use the following methods:
+
+renderToString(element)
+renderToStaticMarkup(element)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
