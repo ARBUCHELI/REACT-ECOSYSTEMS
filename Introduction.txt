@@ -1,12 +1,20 @@
 # Introduction
 --------------
 
+React is rarely used by itself. As a result, working effectively with React—especially when developing in a group—means mastering a set of tools. Some of these tools supplement React, 
+while others establish and maintain workflows for efficient development or help React mesh with another set of web-centric tools. In this course, learn how to make full use of React by 
+exploring its ecosystems, and investigating what React offers as the nucleus of this system. Emmanuel explains what React offers, and dives into topics such as routing and navigation, 
+server-side rendering, animation, and debugging.
+
 * Welcome
 ---------
-
 React is probably the best library for creating web or mobile applications.
 
 React -> . Small API.
 	 . Components Everywhere.
 	 . Big ecosystem.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* The electrons
+---------------
