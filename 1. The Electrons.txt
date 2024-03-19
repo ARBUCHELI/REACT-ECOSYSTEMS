@@ -1,0 +1,16 @@
+# 1. The Electrons
+------------------
+
+* Routing and Navigation
+------------------------
+In the navigation click news ===> Calls Route ---> Routes		Components ===> (Ex: News Page)
+						   ------               ----------
+						   . Home ------------> . Home
+						   . Contact ---------> . Contact
+						   . News ------------> . News
+
+In React, the best way of startin with Routing, is by using a great library called React Router.
+http//reacttraining.com/react-router
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
