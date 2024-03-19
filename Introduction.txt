@@ -1,0 +1,12 @@
+# Introduction
+--------------
+
+* Welcome
+---------
+
+React is probably the best library for creating web or mobile applications.
+
+React -> . Small API.
+	 . Components Everywhere.
+	 . Big ecosystem.
+
