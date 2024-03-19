@@ -88,6 +88,42 @@ facebook.github.io/react-native
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Animation
+-----------
+Research has shown that subtle and well-placed animations make the difference between and addictive application, and one that just feels meh.
+
+React-Motion: powerful animations
+	. Spring
+	. Transitions
+	. Motion
+	. More
+
+github.com/chenglou/react-motion
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
