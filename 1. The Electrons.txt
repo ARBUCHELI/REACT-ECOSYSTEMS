@@ -102,6 +102,59 @@ github.com/chenglou/react-motion
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Testing and debugging
+-----------------------
+Application Development Never Goes Smoothly.
+
+. Chrome, or Firefox, or a standalone developer tool.
+. JEST.
+
+React Developer Tools ---> Very useful for component inspecting.
+
+		      ---> When I need to see how my state object looks like.
+
+		      ---> When I need to see which props are being passed to my component.
+
+JEST
+----
+- UI Test
+- Coverage requests
+- Matchers
+- Use with any frameworks
+
+facebook.github.io/jest
+
+github.com/facebook/react-devtools
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
