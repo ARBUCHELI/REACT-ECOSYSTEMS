@@ -18,3 +18,15 @@ React -> . Small API.
 
 * The electrons
 ---------------
+. React is easy to use.
+. An application needs more than simple syntax. Props and states to work.  
+
+. We have 7 important electrons surrounding the React core:
+	- SSR.
+	- State Management.
+	- Mobile.
+	- Testing and Debugging.
+	- Animation.
+	- Types.
+	- Routing and navigation.
+
