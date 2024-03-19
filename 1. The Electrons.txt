@@ -67,6 +67,27 @@ redux.js.org
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Mobile
+--------
+The removing of the React DOM API from the react library, opened the possibilities of developing mobile apps using React.
+
+React Native: 
+	. Apple
+	. Android
+	. Windows
+
+React Native Ecosystem
+----------------------
+	. Routing
+	. UI
+	. Starting Kits
+	. IDEs
+	. Testing
+
+facebook.github.io/react-native
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
